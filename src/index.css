@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "poppins", "sans-serif";
+  background-color: rgb(9, 9, 121);
+  background: linear-gradient(5deg, rgba(9, 9, 121, 1) 30%, rgba(0, 212, 255, 1) 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+  color: white;
+}
